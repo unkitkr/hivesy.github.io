@@ -1,0 +1,47 @@
+html{
+    height: 100vh;
+    width: 100vw;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Poppins';
+    background-color: #fff7f7;
+}
+
+.landing{
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+}
+
+.st-wish{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.semi-wish{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.btn-back{
+    background-color: #ff4646;
+    text-transform: none;
+    font-weight: 500;
+    font-family: 'Poppins';
+    color: #ffffff;
+}
+
+.nameip:focus{
+    outline: none;
+    border: 1px solid #ff4646 !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
